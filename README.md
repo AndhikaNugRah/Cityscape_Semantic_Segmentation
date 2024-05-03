@@ -1,4 +1,4 @@
-# Cityscape_Semantic_Segmentation Used for Self
+# Cityscape_Semantic_Segmentation Used for Self-Driving Car
 Semantic Segmentation Experiment Results (Cityscape Dataset):
 Semantic segmentation allows vehicles to better understand their environment by identifying different objects on the street. At the same time, instance segmentation identifies each object instance to provide greater depth for calculating speed and distance.
 
